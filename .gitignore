@@ -1,0 +1,6 @@
+# Internal workspace metadata
+.forge/
+
+# OS noise
+Thumbs.db
+.DS_Store
